@@ -19,7 +19,7 @@
 - **Mixed Reality Integration:** Combines elements of the real and virtual worlds to create a powerful training tool that simulates real-life scenarios with high accuracy.
 - **Versatile Use Cases:** Ideal for training personnel on the operation of complex machinery or demonstrating products in a controlled virtual environment.
 
-
+![bio-IVI](https://github.com/user-attachments/assets/780bd957-7838-48f1-8759-69be22c25cfc)
 
 ## Usage
 
