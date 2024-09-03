@@ -13,13 +13,25 @@
 ## Introduction
 **Project Bio-IVI** is a cutting-edge Mixed Reality (MR) and Virtual Reality (VR) application designed for training and demonstration purposes. Whether you're showcasing complex products or machines, this project leverages advanced VR controls to create a highly immersive and interactive experience. Utilizing the OVR toolkit and Meta SDK, Project Bio-IVI offers extensive gesture control, providing users with intuitive and natural interactions in a virtual environment.
 
+
+Virtual Reality(VR) Preview
+
+
+https://github.com/user-attachments/assets/68d0a44f-2118-491e-9402-0e75aa1f659a
+
+Mixed Reality(MR) Preview
+
+https://github.com/user-attachments/assets/8591c86b-427c-41e0-bec9-61582c3b83e1
+
+
+
+
+
 ## Features
 - **Advanced VR Controls:** Includes sophisticated interaction controls through the OVR toolkit and Meta SDK, allowing for a seamless and immersive experience.
 - **Gesture Control:** Extensive use of gesture recognition enables users to interact naturally with the virtual environment, making the training and demonstration sessions more intuitive.
 - **Mixed Reality Integration:** Combines elements of the real and virtual worlds to create a powerful training tool that simulates real-life scenarios with high accuracy.
 - **Versatile Use Cases:** Ideal for training personnel on the operation of complex machinery or demonstrating products in a controlled virtual environment.
-
-![bio-IVI](https://github.com/user-attachments/assets/780bd957-7838-48f1-8759-69be22c25cfc)
 
 ## Usage
 
@@ -33,10 +45,6 @@
 3. **Customizing Modules:**
    - Users can customize training modules to focus on specific products or machines, tailoring the experience to their needs.
 
-## Video Demo
-Watch the full demo of Project Bio-IVI in action: [https://youtu.be/mCrp-G2jHdo](#)
-
-For a quick overview, check out our demo video: [Link to Demo Video](#)
 
 ## Benefits
 - **Enhanced Learning Experience:** The immersive nature of MR/VR accelerates learning by providing hands-on practice in a safe, controlled environment.
